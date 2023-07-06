@@ -6,16 +6,17 @@ Welcome to the Terraform Infrastructure as Code (IaC) Repository! This repositor
 The repository has the following directory structure:
 
 ### modules/ec2: 
-This directory contains the Terraform module for provisioning EC2 instances. It includes files such as:
+This directory contains the Terraform module for provisioning EC2 instances. 
+### It includes files  such as:
     -   data.tf, 
     -   ec2_instance.tf, output.tf, and 
     -   variable.tf. 
 These files define the data sources, resource configurations, outputs, and variables for the EC2 instances to be created.
 
-#### modules/main.tf: 
+### modules/main.tf: 
 The main.tf file in the modules directory is the entry point for configuring and using the Terraform modules. It includes provider configurations and module references for the EC2 instances, security group, IAM, and VPC.
 
-#### modules/versions.tf: 
+### modules/versions.tf: 
 The versions.tf file specifies the required Terraform version and the versions of the provider plugins used in the configuration.
     
 # Getting Started
