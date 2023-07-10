@@ -56,8 +56,12 @@ We would like to acknowledge the Terraform community and contributors for their 
 If you have any questions, suggestions, or issues, please don't hesitate to reach out. 
 We appreciate your interest and hope this repository proves useful in your infrastructure automation journey.
 
-Thank you,
-[@ialexeze](http://github.com/ialexeze)
+Thank you.
+
+Let's Connect,
+- <a href="https://github.com/ialexeze" target="_blank">GitHub</a>
+- <a href="https://linkedin.com/in/alexeze" target="_blank">LinkedIn</a>
+- <a href="https://twitter.com/ialexeze" target="_blank">Twitter</a>
 
 
 
