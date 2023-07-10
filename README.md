@@ -48,7 +48,7 @@ The versions.tf file specifies the required Terraform version and the versions o
     Use the terraform destroy command to tear down the infrastructure provisioned by Terraform.
 
 # License
-This repository is licensed under the MIT License. You are free to use, modify, and distribute the code as permitted by the license. Please refer to the license file for more details.
+This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as permitted by the license. Please refer to the license file for more details.
 
 # Acknowledgements
 We would like to acknowledge the Terraform community and contributors for their valuable insights and contributions to the Terraform ecosystem. Their efforts make infrastructure provisioning and management easier, more efficient, and reproducible.
@@ -57,9 +57,6 @@ If you have any questions, suggestions, or issues, please don't hesitate to reac
 We appreciate your interest and hope this repository proves useful in your infrastructure automation journey.
 
 Thank you.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 Let's Connect,
 - <a href="https://github.com/ialexeze" target="_blank">GitHub</a>
