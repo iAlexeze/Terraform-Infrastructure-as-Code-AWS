@@ -58,6 +58,9 @@ We appreciate your interest and hope this repository proves useful in your infra
 
 Thank you.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 Let's Connect,
 - <a href="https://github.com/ialexeze" target="_blank">GitHub</a>
 - <a href="https://linkedin.com/in/alexeze" target="_blank">LinkedIn</a>
