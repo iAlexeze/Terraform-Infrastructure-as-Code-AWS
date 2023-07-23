@@ -1,4 +1,5 @@
 # Terraform Infrastructure as Code Repository
+![GitHub](https://img.shields.io/badge/GitHub-Terraform--Infrastructure--as--Code--AWS-orange) ![IALEX](https://img.shields.io/badge/IALEX-blue) ![IALEX](https://img.shields.io/badge/AWS-red) ![IALEX](https://img.shields.io/badge/Starter--Kit-red) 
 
 Welcome to the Terraform Infrastructure as Code (IaC) Repository! This repository contains the necessary Terraform modules and configuration files to provision and manage your infrastructure using Terraform. With Terraform, you can easily define and deploy your infrastructure resources in a declarative manner, enabling you to achieve consistency, scalability, and version control.
 
